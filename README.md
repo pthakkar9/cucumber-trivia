@@ -10,3 +10,9 @@ Some programming exercises are also to be included - something that you can use 
 Questions are <a href = "Questions.md">here</a>.
 Exercies are in <a href = "https://github.com/pthakkar9/cucumber-trivia/tree/master/hands-on%20exercises"> this folder</a>.
 
+
+How to contribute?
+
+1. If you want to add questions, fork project and update <a href = "Questions.md">Questions.md</a> file.
+2. If you want to add programming excercise, read <a href = "hands-on exercises/README.md">README.md</a> file inside hands-on exercises folder, fork project, add instructions and solution.
+
