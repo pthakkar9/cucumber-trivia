@@ -7,3 +7,6 @@ Original idea is to start from basic questions and add advanced questions later 
  
 Some programming exercises are also to be included - something that you can use as hands-on exercise during interview or to sharpen your own skills. Any simple exercise that can be done from 30 minutes to 2 hours will be ideal to be included here.
 
+Questions are here.
+Exercies are in the Exercies folder.
+
